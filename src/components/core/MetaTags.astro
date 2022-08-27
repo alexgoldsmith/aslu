@@ -1,0 +1,44 @@
+---
+
+const {
+  title = "ASLU",
+  description = "",
+  canonical,
+} = Astro.props;
+
+---
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{title}</title>
+<meta name="description" content={description} />
+{canonical && <link rel="canonical" href={canonical} />}
+
+<!-- Google / Search Engine Tags -->
+<meta itemprop="name" content={title} />
+<meta itemprop="description" content={description} />
+
+<!-- Facebook Meta Tags -->
+{canonical && <meta property="og:url" content={canonical} />}
+<meta property="og:type" content="website" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+
+<!-- Twitter Meta Tags -->
+{canonical && <meta name="twitter:url" content={canonical} />}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+
+<!-- Fonts -->
+<link
+  href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap"
+  rel="stylesheet"
+/>
+
+<!-- Google Site Verification -->
+<meta
+  name="google-site-verification"
+  content="orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M"
+/>

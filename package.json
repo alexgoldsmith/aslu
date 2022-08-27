@@ -10,6 +10,12 @@
     "astro": "astro"
   },
   "devDependencies": {
+    "@types/bootstrap": "^5.2.3",
     "astro": "^1.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "install": "^0.13.0",
+    "npm": "^8.18.0"
   }
 }
