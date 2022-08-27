@@ -3,8 +3,7 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
     // list configurations here
-    root: 'src',
+    bootstrap: '/node_modules/bootstrap',
     vite: {
-
     }
 });
