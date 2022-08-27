@@ -4,8 +4,8 @@ import Logo from "~/components/widgets/Logo.astro";
 const {} = Astro.props;
 ---
 
-<header class="fixed-top sticky">
-  <nav class="navbar navbar-expand-lg p-3" style="background-color: #e3f2fd;">
+<header class="">
+  <nav class="navbar navbar-expand-lg navbar-fixed-top p-3" style="background-color: #e3f2fd;">
     <a class="navbar-brand" href="#">
       <Logo />
     </a>
@@ -21,7 +21,7 @@ const {} = Astro.props;
       <span class="navbar-toggler-icon"> </span>
     </button>
     <button
-      class="button"
+      class="btn btn-primary-outline"
       aria-label="Toggle between Dark and Light mode"
       data-aw-toggle-color-scheme
     >
