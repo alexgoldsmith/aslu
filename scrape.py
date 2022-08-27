@@ -22,7 +22,7 @@ while True:
             if content and content != 'None':
                 content = str(contents.string)
                 if content and content != 'None':
-                    file_save = open(f"/workspace/aslu/src/pages/lessons/content/lesson{count}.div", "a")
+                    file_save = open(f"/workspace/aslu/src/content/lessons/lesson{count}.div", "a")
                     file_save.write(content)
                     file_save.close()
     else:
