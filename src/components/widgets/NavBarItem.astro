@@ -1,7 +1,7 @@
 ---
-const { label, link } = Astro.props;
+const { label, link, state = "" } = Astro.props;
 ---
 
 <li class="nav-item">
-    <a class="nav-link inline-flex" href={link}>{label}</a>
+    <a class={"nav-link " + state} href={link}>{label}</a>
 </li>
