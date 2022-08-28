@@ -1,0 +1,8 @@
+.foot-header {
+    font-weight:600;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
