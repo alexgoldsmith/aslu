@@ -1,0 +1,10 @@
+<table width="75%">
+<tr>
+<td align="CENTER" width="25%"><a href="../../pages-layout/concepts.htm">
+<img alt="Concepts" border="0" height="28" src="../../images-layout/concepts.gif" width="49"/></a></td>
+<td align="CENTER" width="25%"> <i>
+<img align="center" alt="back.gif (1674 bytes)" border="0" height="28" onclick="history.go(-1)" src="../../images-layout/back.gif" width="54"/></i></td>
+<td align="CENTER" width="25%"><a href="../c/cheese.htm">
+<img alt="cheese" border="0" height="28" src="../../images-layout/next.gif" width="51"/></a></td>
+</tr>
+</table>
