@@ -3,23 +3,22 @@ import { SITE } from "~/config.mjs";
 import PageLayout from "~/layouts/PageLayout.astro";
 
 const title = `${SITE.org} | Lessons`;
-const description = `List of lessons from ${SITE.org}`
-const canonical = new URL(`lessons`, Astro.site)
+const description = `List of lessons from ${SITE.org}`;
+const canonical = new URL(`lessons`, Astro.site);
 
-const lessons = ["lesson-1",
- "lesson-2"]
+const lessons = ["lesson-1", "lesson-2"];
 ---
 
 <PageLayout meta={{ title, description, canonical }}>
     <main>
         <ul>
-            {lessons.map((lesson) => (
-                <li>
-                    <a href={"lessons/" + lesson}>
-                        {lesson}
-                    </a>
-                </li>
-            ))}
+            {
+                lessons.map((lesson) => (
+                    <li>
+                        <a href={"lessons/" + lesson}>{lesson}</a>
+                    </li>
+                ))
+            }
         </ul>
     </main>
 </PageLayout>

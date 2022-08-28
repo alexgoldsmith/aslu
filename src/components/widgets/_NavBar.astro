@@ -1,0 +1,21 @@
+---
+import Logo from "~/components/widgets/Logo.astro";
+import NavBarItem from "~/components/widgets/NavBarItem.astro";
+---
+
+<header class="">
+    <nav
+        class="navbar navbar-expand-lg navbar-fixed-top p-3"
+        style="background-color: #e3f2fd;"
+    >
+        <a class="navbar-brand" href="#">
+            <Logo />
+        </a>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <NavBarItem label="Home" link="/" />
+                <NavBarItem label="Lessons" link="/lessons" />
+            </ul>
+        </div>
+    </nav>
+</header>

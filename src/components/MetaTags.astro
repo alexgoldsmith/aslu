@@ -1,15 +1,11 @@
 ---
-
-const {
-  title = "ASLU",
-  description = "",
-  canonical,
-} = Astro.props;
-
+import { SITE } from "~/config.mjs";
+// values assigned here are default values
+const { title = SITE.org, description = "", canonical } = Astro.props;
 ---
 
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <title>{title}</title>
 <meta name="description" content={description} />

@@ -1,7 +1,9 @@
 ---
-import PageLayout from "~/layouts/PageLayout.astro"
-const { meta } = Astro.props
+import PageLayout from "~/layouts/PageLayout.astro";
+const { meta } = Astro.props;
 ---
+
 <PageLayout meta={meta}>
-    <span>test</span>
+    <!-- markdown content will go here -->
+    <slot />
 </PageLayout>
