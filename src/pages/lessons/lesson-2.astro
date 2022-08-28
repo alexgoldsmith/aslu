@@ -2,11 +2,9 @@
 import { SITE } from "~/config.mjs";
 import LessonLayout from "~/layouts/LessonLayout.astro";
 
-import Objectives from "~/components/lesson/Objectives.astro";
-
 const title = `${SITE.org} | Lesson-2`;
-const description = `Lesson 2 from ${SITE.org}`
-const canonical = new URL(`lesson-2`, Astro.site)
+const description = `Lesson 2 from ${SITE.org}`;
+const canonical = new URL(`lesson-2`, Astro.site);
 ---
 
 <LessonLayout meta={{ title, description, canonical }}>
