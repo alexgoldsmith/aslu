@@ -1,0 +1,21 @@
+---
+const { label, link } = Astro.props;
+---
+
+<!-- Project One -->
+<div class="row">
+    <div class="col-md-7">
+        <a href={link}>
+            <img
+                class="img-fluid rounded mb-3 mb-md-0"
+                src="https://via.placeholder.com/700x300"
+                alt=""
+            />
+        </a>
+    </div>
+    <div class="col-md-5">
+        <h3>{label}</h3>
+        <slot />
+        <a class="btn btn-primary" href={link}>View Course</a>
+    </div>
+</div>
