@@ -1,0 +1,15 @@
+---
+---
+
+<lite-youtube
+    {videoid}
+    {...attrs}
+    style={`background-image: url('${posterURL}');`}
+/>
+
+<script is:inline defer>
+    document.addEventListener("DOMContentLoaded", () => {
+        if (!customElements.get("lite-youtube"))
+            import("https://cdn.jsdelivr.net/npm/lite-youtube-embed/+esm");
+    });
+</script>
