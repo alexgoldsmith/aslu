@@ -1,0 +1,9 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "emmet.includeLanguages": {
+        "typescript": "astro"
+    },
+    "astro.html.completions.emmet": false,
+    "astro.html.completions.enabled": false,
+}
