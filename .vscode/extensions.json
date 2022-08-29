@@ -1,7 +1,4 @@
 {
-  "recommendations": [
-    "astro-build.astro-vscode",
-    "mkxml.vscode-filesize"
-  ],
+  "recommendations": [],
   "unwantedRecommendations": []
 }
