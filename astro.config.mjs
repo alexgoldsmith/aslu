@@ -12,7 +12,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export default defineConfig({
   // Astro uses this full URL to generate your sitemap and canonical URLs in your final build
   site: SITE.domain,
-  base: "/",
+  base: "./",
   bootstrap: '/node_modules/bootstrap',
 
   output: "static",
@@ -23,7 +23,7 @@ export default defineConfig({
   vite: {
     resolve: {
       alias: {
-        "~": path.resolve(__dirname, "./src"),
+        "~": path.resolve(__dirname, "src"),
       },
     },
   },
