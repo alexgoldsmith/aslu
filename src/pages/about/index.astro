@@ -1,6 +1,7 @@
 ---
 import { SITE } from "~/config.mjs";
 import PageLayout from "~/layouts/PageLayout.astro";
+import AboutBill from "~/components/content/AboutBill.astro";
 
 const title = `${SITE.org} | About Us`;
 const description = `About ${SITE.org}`;
@@ -8,5 +9,7 @@ const canonical = new URL("", Astro.site);
 ---
 
 <PageLayout meta={{ title, description, canonical }}>
-    <main>About Us</main>
+    <main>
+        <AboutBill />
+    </main>
 </PageLayout>
