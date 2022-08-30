@@ -1,0 +1,2 @@
+Memory aid: Think of "tacking it down."REMEMBER:Sample sentence:YOUR FIRST TEACHER, YOU REMEMBER HIS/HER NAME?MEMORIZE:Start with a loose 5-hand or claw hand.  Quickly pull forward into a 
+	fist.Also see:"MEMORIZE"Also see:FORGETYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

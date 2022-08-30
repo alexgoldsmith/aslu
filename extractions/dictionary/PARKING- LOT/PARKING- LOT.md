@@ -1,0 +1,2 @@
+To sign "parking lot," combine the sign for "CL3-Park-car" and the sign for 
+			"FIELD."PARKING-LOT:Sample sentence:Also see:FIELDAlso see:PARKAlso see:PARKING-PERMITAlso see:PARK-a-carYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

@@ -1,0 +1,4 @@
+squanderThere are a number of ways to indicate via signing that someone is squandering 
+their money.Here are a few versions with which to become familiar:Version: https://youtu.be/XNlueHFqcIYVersion: https://youtu.be/1pX1OSSTfAcVersion: https://youtu.be/xzO_3X7UhvkNotes:* 
+Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
+Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

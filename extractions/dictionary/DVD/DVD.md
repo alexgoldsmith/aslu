@@ -1,0 +1,2 @@
+The concept of DVD (as in a "digital video disk") is indicated by 
+			fingerspelling the letters D-V-D.DVD:Also see:BLUE-RAYYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

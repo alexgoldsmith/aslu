@@ -5,70 +5,50 @@ from string import ascii_lowercase
 import re
 import os
 
+root_dir = "/home/alex/aslu"
 url = "http://asluniversity.com/asl101/index/"
+word_base_url = "http://asluniversity.com/asl101"
 
 
 for c in ascii_lowercase:
-    word_base_url = f"http://asluniversity.com/asl101"
-    file_save = open(f"./public/content/dictionary/references/{c}.div", "w")
-
-    file_save.close()
-
-    search_url = url + c + ".htm"
-
-    file = requests.get(search_url)
-    if file:
-        soup = bs(file.content, 'html.parser')
+    index_url = url + c + ".htm"
+    index_file = requests.get(index_url)
+    if index_file:
+        soup = bs(index_file.content, 'html.parser')
         links = soup.find_all("a")
         for link in links:
             try:
-                word = link.text.strip()
+                word = link.string.strip()
                 href = link.get("href")
                 href = href.replace('..', word_base_url)
                 print(word)
-                print(href)
-                if not os.path.exists(f"./public/content/dictionary/{word}"):
-                    os.makedirs(f"./public/content/dictionary/{word}")
+                # print(href)
+                if not os.path.exists(f"{root_dir}/extractions/dictionary/{word}"):
+                    os.makedirs(f"{root_dir}/extractions/dictionary/{word}")
                 word_file = requests.get(href)
                 word_soup = bs(word_file.content, 'html.parser')
-                word_contents = word_soup.blockquote
-                print(word_contents)
-                with open(f"./public/content/dictionary/{word}/{word}.div", "w") as f:
-                    f.write(word_contents.prettify())
+                block = word_soup.blockquote
+
+                # write blockquotes
+                with open(f"{root_dir}/extractions/dictionary/{word}/{word}.div", "w") as f:
+                    f.write(block.prettify())
+
+                # write images
+                images = block.find_all("img")
+                for image in images:
+                    img_src = image["src"]
+                    img_name_and_ext = img_src.rsplit("/", 1)[-1]
+                    img_url = img_src.replace("../..", word_base_url)
+                    print(img_url)
+                    img_data = requests.get(img_url).content
+                    with open(f"{root_dir}/extractions/dictionary/{word}/{img_name_and_ext}", "wb") as f:
+                        f.write(img_data)
+
+                # write text only
+                with open(f"{root_dir}/extractions/dictionary/{word}/{word}.md", "w") as f:
+                    for text in block.stripped_strings:
+                        f.write(text)
             except:
                 continue
-
-            # content = str(contents.string)
-
-            # file_save = open(
-            #     f"./public/content/dictionary/references/{c}.div", "a")
-            # file_save.write(str(contents[1]))
-            # file_save.close()
-
-            # extensions = re.findall('"([^"]*)"', str(contents[1]))
-            # words = re.findall('>([^"]*)</a>', str(contents[1]))
-
-            #     for index, extension in enumerate(extensions):
-            #         extension = extension.replace('..', word_base_url)
-            #         try:
-            #             word_file = requests.get(extension)
-            #         except:
-            #             continue
-
-            #         word_soup = bs(word_file.content, 'html.parser')
-            #         word_contents = word_soup.find("table")
-
-            #         word = words[index]
-            #         word = word.replace(' ', '')
-            #         word = word.replace("/", '')
-            #         print(word)
-            #         try:
-            #             word_save = open(
-            #                 f"./public/content/dictionary/words/{word}.div", "w")
-            #         except:
-            #             continue
-            #         word_save.write(str(word_contents))
-            #         word_save.close()
-
     else:
-        break
+        continue

@@ -1,0 +1,43 @@
+In a message dated 8/7/2012 8:08:46 P.M. Pacific Daylight Time, 
+			jmd717 writes:Dr. Bill,Recently a friend 
+			and I have been getting together once a week to go through a lesson 
+			together. We just finished lesson 11 and will be buying your dvd 
+			soon so we can continue past 15! Tonight, for the first time, we 
+			decided to spend 15 minutes after we finished the lesson talking to 
+			each other exclusively using ASL. We're trying to get ready to go to 
+			an ASL student meetup to get some practice using what we've been 
+			learning in a conversational environment, but neither of us feel 
+			completely ready, so we're starting just with the two of us. To help 
+			us out, we left the browser window open to lifeprint.com and when we 
+			found that we kept fingerspelling a word and wanted to know how to 
+			sign it instead, my friend would sign "look" to me, and I would look 
+			it up on your ASL dictionary. We didn't know how to sign "look up" 
+			though and even a little googling hasn't really answered it for us. 
+			What is the appropriate way to sign "look that up?" Would you use 
+			the word for "search" (c handshape making two circles by the eyes)? 
+			In context, him just using the "look-at" sign got the meaning 
+			across, but we were both curious how you would suggest signing "look 
+			up" as in look up in a dictionary or on the internet. Thank you 
+			again for all your instruction!Sincerely,-
+			JustinDear Justin,Hello :)The danger of asking an expert for advice on how to sign something 
+			is that he or she might actually tell you. (Heh.)Why is that dangerous?Because you might believe him or her when he or she says "The sign 
+			for 'look-up' is ... _____."I like the fact that you have pointed out how "in context" your 
+			friend can sign "look" and the both of you know exactly what he 
+			means: "Look-up that recently fingerspelled word." The sign 
+			"LOOK-at" requires context. It is a "transitive" verb, (memory aid: 
+			it needs to transfer it's action to "something"). You are both 
+			sitting there with a computer screen open and ready. Then he signs 
+			"LOOK-at" directionally toward the computer screen. With that much 
+			context going for you I would imagine that a glance and a head-jerk 
+			in the direction of the computer screen would serve just as well.The challenge faced by signers is that the less context you have, 
+			the more specific your signing needs to become.The inverse is also true: The more context you have, the fewer signs 
+			you need.So, the "right way" to sign something often depends on how much 
+			context you have. If you and your signing partner(s) have a lot of 
+			shared context you would be wasting your partner's time if you use 
+			more signs than needed to convey your message. Thus your signs might 
+			be "correct" but your overall language use would be inappropriate to 
+			the situation.Okay, so, let's move forward on the premise that the concept of 
+			"look-up" has several situation-specific meanings that can be 
+			expressed via a variety of signs,I recommend the following:SEARCH / seek / look-for / look-upFIND / pick-up / "found it" / looked it up /CHECK / check into / verify / make sure of / look-up / investigateLOOK-at-resourcePAGE / turn-pages / look-up in a book /TYPING / data-entry / use-keyboardThose signs tend to use corresponding facial expressions and head 
+			movements.Best wishes,-
+			Dr. BillAlso see:LOOKYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

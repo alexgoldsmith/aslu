@@ -1,0 +1,2 @@
+Combine the sign "BRUSH-TEETH" and the instrument classifier (ICL)
+  "squeeze out of tube."BRUSH-TEETH:Squeeze out:You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

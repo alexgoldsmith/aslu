@@ -1,0 +1,2 @@
+The sign for "Tuesday" circles a "T" handshape 
+	in the air.Sample sentence: "Why is going the movies on a Tuesday evening good?"= MOVIE, GO TUESDAY NIGHT GOOD, WHY?(p.s. The reason is: Because there are fewer people.)TUESDAY:every-TUESDAY:See:SUNDAY/MONDAY/ TUESDAY /WEDNESDAY/THURSDAY/FRIDAY/SATURDAY

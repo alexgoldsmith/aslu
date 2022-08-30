@@ -1,0 +1,1 @@
+nurseNURSE:Nurse is an similar to the sign "doctor."Nurse uses an "N" handshape on your dominant hand to "take your pulse."In general you tap the "N" on the wrist twice, but at high speed signing you might see it only touching once.See:Doctor

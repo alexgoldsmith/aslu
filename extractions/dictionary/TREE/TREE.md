@@ -1,0 +1,2 @@
+TREE:Show a "tree" with your arm.Hold up a "five" hand and twist it twice.TREE: (animation)Sentence: Do you have a tree in your front yard?  = YOUR HOUSE 
+			FRONT YARD TREE HAVE?FOREST:Slide the sign for tree along the top of the left forearm from left to right.Also see:BRANCHYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

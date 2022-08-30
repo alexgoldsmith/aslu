@@ -1,0 +1,2 @@
+Version 1:Spell the letters "L" and "A."  Either in the same location, or 
+			move the "A" to the right slightly.Los Angeles:(Model: Byron Cantrell)Version 2:You might also see "Los Angeles" done by spelling"LA" twice.Los Angeles:You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

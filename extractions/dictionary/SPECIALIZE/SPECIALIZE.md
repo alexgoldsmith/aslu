@@ -1,0 +1,2 @@
+SPECIALIZE:Note: Add the "person/agent" sign and this sign will mean 
+			specialist.Also see:MAJORYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

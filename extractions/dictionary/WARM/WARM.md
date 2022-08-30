@@ -1,0 +1,2 @@
+The sign for "warm" starts in the same handshape as the sign 
+	for FOOD. It is a "modified O" hand.  Think of your warm breath rising upward in the wintertime.WARM:Here it is again folks, this time a bit from the side:Sample sentence:  Do you like warm cookies and milk?

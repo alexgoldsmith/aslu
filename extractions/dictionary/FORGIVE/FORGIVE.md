@@ -1,0 +1,2 @@
+FORGIVE / excuse / pardon-meBrush your fingertips along the length of your base-hand palm twice.Note: If you use a single, large, firm movement it means:  lay-off work, pardon, 
+			or release from obligation.See:PARDONAlso see:EXCUSEYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

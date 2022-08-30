@@ -1,0 +1,1 @@
+This sign means casual, slow paced, in a calm manner, or leisurely ."Take it easy"Here is another example:"Take it easy"Also see:  "TAKE"

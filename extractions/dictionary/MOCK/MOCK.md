@@ -1,0 +1,2 @@
+mockMOCK:Use "horns" handshapes, thrust the hands forward twice as if prodding someone 
+with a pitchfork.MOCK:  (variation)Some people use a modified version of the sign "TEASE" to mean "mock."They use the "horns" handshape or, ironically, the ILY handshape.The movement is repeated.  Some people do the movement "hand over hand."

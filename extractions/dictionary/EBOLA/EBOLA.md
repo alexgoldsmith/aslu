@@ -1,0 +1,2 @@
+The sign for Ebola Virus uses a palm down "S" hand and throws it 
+			forward while changing it into a palm-down 3 hand.Source: Ayiu John Wuolhttps://www.youtube.com/watch?v=hQdR1sFbVHwYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

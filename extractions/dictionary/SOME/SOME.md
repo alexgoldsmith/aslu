@@ -1,0 +1,1 @@
+The sign for "some" is used for such concepts as "I work 'part' time."Use a "slicing" movement for your dominant hand. The base hand doesn't move.SOME or PART:Do some cats like water?

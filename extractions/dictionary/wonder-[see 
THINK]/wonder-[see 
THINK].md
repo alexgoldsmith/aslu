@@ -1,0 +1,3 @@
+Location: forehead, off to the right a bitOrientation: palm backMovement:  The sign starts an inch or two away from the head
+and then touches the index finger to the forehead.THINK:Think-CONSIDER:Here's the sign "THINK" as in "think about."  Ponder.Move the tip of the index finger in a small circle in front of the forehead.Mull over:The hand is in an "AND" handshape.  The fingers flutter as if showing 
+intense brain activity.SLIPPED-MIND or "lose your thought""I THINK SO." (But I'm not sure.)

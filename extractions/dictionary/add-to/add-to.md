@@ -1,0 +1,2 @@
+The concept of "altogether" is expressed by the sign for TOTAL. 
+	This also means "sum," or "add everything up."TOTAL:ADD-TO:Here's a modification of altogether that means "ADD-TO."The left hand stays stationary and the right hand "adds to it."

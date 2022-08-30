@@ -1,0 +1,1 @@
+SECRET:Tap your lips twice with the back of the "A" hand thumb.Secret: (animated)You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

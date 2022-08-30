@@ -1,0 +1,8 @@
+POST: The 
+		American Sign Language (ASL) sign for "post"The concept of "post" has different meanings so there are several different signs.If you mean post as in a social media post then use a very quick, single movement such as this:POST-to-social-media:https://youtu.be/Vr_huYCjj6MPOST [older version / double movement]If you are doing some old fashioned posting of paper to walls or telephone poles (etc.) you might want to use the older version of this sign that uses a double movement as if pressing thumb tacks into the top two corners of a poster on a 
+  bulletin board, then press in thumb tacks on the bottom two corners.POST-to-a-physical-buletin-board / tack-up / put up flyersThis sign represents attaching a poster or a flyer to a bulletin board.Sample sentence:"Do you post your phone number in the bathroom?"Technically it would be easier to just write it with a felt tip marker.(Not that I would know.)If you mean "post" as in a fence post then depict it using C handshapes.Notes:BULLETIN BOARD: 
+			You can use the double movement version of the sign POST to mean "bulletin board" by signing POST and then drawing a big square in the air with 
+  both index fingers starting at the top middle moving to the sides, then down, 
+  then back to the middle.  Or depict the board using "L" hands to show the bottom corners.* 
+Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
+Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

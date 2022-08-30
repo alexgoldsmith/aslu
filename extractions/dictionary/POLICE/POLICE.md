@@ -1,0 +1,5 @@
+The sign for "police" represents the badge that police officers wear.Tap the right "C" hand on the upper left chest twice.POLICE:Here is another variation of the sign for POLICE:Sample sentence: "The police will arrive soon." = POLICE ARRIVE SOONNotes:I got an email asking about the one of the sign ins that sentence and realized I 
+hadn't yet added the English description. So I added it :)Kim writes:Hey Dr. Vicars!First, thank you for your hard work and dedication for lifeprint.com. Your work 
+is NOT in vain! I truly couldn't afford to take ASL in a paid college setting. 
+Thank you so much!Now, when I looked up Police, there's a video. What is the last sign in the 
+video (2 ”h” hands slide against each other)? Thank you in advance!- KimDear Kim,That sign is one of the variations of the sign for "soon."See:SOON-- Dr. V

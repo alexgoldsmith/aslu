@@ -1,0 +1,2 @@
+The sign for "Thursday" circles an "H."  (The "H" often tends to be pointing somewhat upward, 
+	almost like a backward "U.")"T-H" version of Thursday:every-THURSDAY:See:SUNDAY/MONDAY/TUESDAY/WEDNESDAY/ THURSDAY /FRIDAY/SATURDAY

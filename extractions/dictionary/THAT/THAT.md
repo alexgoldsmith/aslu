@@ -1,0 +1,1 @@
+THAT:The generic sign for THAT:(Handshape of dominant hand is a "Y")THAT-ONE (specifically)THAT-ONE (the one way over there)You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

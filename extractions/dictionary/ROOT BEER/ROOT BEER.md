@@ -1,0 +1,1 @@
+rootbeerJust touch an "R" then a "B" to the side of your chin.Sign: ROOTBEERSynonyms:Handshape:Right Hand:Left Hand:Location:Orientation:Movement:Non-Manual Marker(Facial expressions and or body language):Description:Interpretations:Inflections:

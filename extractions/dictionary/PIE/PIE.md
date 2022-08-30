@@ -1,0 +1,2 @@
+To sign "pie" show the slicing of a pie.  Make two slices in an imaginary 
+  pie on the palm of your non-dominant hand. The cuts should form awedgeof pie.PIEPIE (animated)PIE:  (version 2 - Initialized)This version uses the same movement but the handshape is a "P."See:CAKESee:ICE-CREAMYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

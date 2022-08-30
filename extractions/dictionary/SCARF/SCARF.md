@@ -1,0 +1,1 @@
+SCARF:  Mime putting on a scarf.SCARF:  AnimationYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

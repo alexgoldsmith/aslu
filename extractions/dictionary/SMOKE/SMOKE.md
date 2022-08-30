@@ -1,0 +1,2 @@
+The general sign for smoking is done by tapping your lips twice with 
+			a "v" hand as if holding a cigarette.SMOKE or SMOKING:Cigarette:SMOKE-RISING:  Use a swirling movement.Also see:SMOKE-airborneYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

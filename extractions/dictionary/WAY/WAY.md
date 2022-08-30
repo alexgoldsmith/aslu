@@ -1,0 +1,2 @@
+Thesign for "way" is commonly labeled as STREET, but it can be used for 
+			quite a few related concepts.STREET: WAY/street/path/roadAlso see:HALLAlso see:METHODYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

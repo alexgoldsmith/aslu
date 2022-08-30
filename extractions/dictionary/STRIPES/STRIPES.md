@@ -1,0 +1,3 @@
+STRIPES-(vertical)Drag the dominant "4 hand" downward on or near your body.Animated: STRIPES-vertical:STRIPES: "wavy horizontal"Use your "4 hand" to show wavy stripes on or near your body.Stripes: "horizontal."Notes:The sign "STRIPES" can be done "palm out" to show stripes 
+  wherever they exist, (on a wall, a car, etc).  For example, if you do 
+  this sign in a big high arc it means "RAINBOW."You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

@@ -1,0 +1,1 @@
+Think of words on both sides of a sheet of paper.PROGRAM:Side view:You can sign "programmer" by adding the "agent" sign.Also see:SOFTWARE

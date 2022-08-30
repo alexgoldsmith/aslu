@@ -1,0 +1,3 @@
+RIVER:RIVER (VERSION 2)Another way to sign "river" uses "wiggling" fingers.  You do the same 
+  sign as version 1 of "river," but you also wiggle your fingers.  For an 
+  example see the animation link:NOTES:Some people use the signsWATERandSTREET-(way/path) to mean "river."You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

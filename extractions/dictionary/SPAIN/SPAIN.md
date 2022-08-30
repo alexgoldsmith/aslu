@@ -1,0 +1,4 @@
+The sign "Spain" is one of those signs that has quite a few versions and 
+	seems to evolve over time.One version brings two "X" hands together from off the shoulders.Another version brings an "X" hand from the right upper chest to the left 
+	upper chest.Still another strong version flips either an "X" hand or a "flattened "O" 
+	hand on top of the heart.SPAIN (Version 1) (recommended version)SPAIN (Version 2)(This version is also an older version of the sign for "Mexico."  See:MEXICO)Spain (Version 3)Spain: Version 4:You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

@@ -1,0 +1,2 @@
+"Park a car" / PARKED:Sample sentence: 
+			Do parking-lot supervisors earn a lot?Also see:PARKAlso see:PARKING- LOTAlso see:PARKING PERMITYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

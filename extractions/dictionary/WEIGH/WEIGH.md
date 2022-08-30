@@ -1,0 +1,3 @@
+The general sign for weigh can be used to mean several related "weight" concepts.Both hands form "H" shapes. The dominant "H" rocks back and forth on top of the 
+	non-dominant "H" in a quick double movement. 
+  The non-dominant hand doesn't move during this sign.WEIGH / TON / POUND:Here is a view of that sign from an angle:See:POUNDYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

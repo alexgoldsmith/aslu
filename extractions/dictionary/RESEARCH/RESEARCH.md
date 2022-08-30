@@ -1,0 +1,2 @@
+The sign for "research" is an initialized form of the sign "investigate."Sample sentence: "Do you like to write research papers?"= RESEARCH PAPER, YOU LIKE WRITE?Use a digging type motion. As if your base hand were the ground and your 
+	dominant hand were an archeologists tool.RESEARCH:INVESTIGATE / "check into"s

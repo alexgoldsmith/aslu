@@ -1,0 +1,2 @@
+Index and thumb of each hand open and close while the hands move in a 
+  horizontal circle. Memory tip: Think of "gossip going around."GOSSIP:Also see:CHATYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

@@ -1,0 +1,2 @@
+The general sign for UP (opposite of down) just points an index finger into 
+	the air.If you use a double movement this sign can mean "upstairs."UP:up till now, ever since, have been...wake up:Give up, surrender, sacrifice...See:DOWNYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

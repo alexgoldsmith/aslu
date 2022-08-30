@@ -1,0 +1,2 @@
+The sign for "wolf" show a wolf's snout.WOLF::WOLF:  front view:Notes:Compare the sign WOLF to the sign SLEEP.The sign WOLF is different from the sign SLEEP in that WOLF moves forward 
+	as opposed to SLEEP which moves down.See:SLEEPAlso see:BEARAlso see:FOX

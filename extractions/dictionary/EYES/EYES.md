@@ -1,0 +1,1 @@
+The sign for "eyes" is easy, just point to each eye.EYES:Sample sentence:  "Are your dad's eyes blue?"

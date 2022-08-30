@@ -1,0 +1,2 @@
+HALL:The sign for hall is an "upright" version of the sign "STREET / WAY / PATH."Move both hands forward as if showing the walls of a hallway.(Sorry about the fuzzy picture. It isn't your eyes. It's me. I was doing some 
+inter-dimensional travel just before the picture.)Note: Compare the sign "HALL" with:STREETandSIDEWALK.

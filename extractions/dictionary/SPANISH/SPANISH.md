@@ -1,0 +1,3 @@
+The sign "SPANISH" is signed the same as the sign for SPAIN. The meaning is 
+	made clear by the rest of your sentence.See the Spain page at:SPAINSee:LANGUAGESee:MEXICOSPAIN (Version 1) (recommended version)SPAIN (Version 2)(This version is also an older version of the sign for "Mexico."  See:MEXICO)There are other versions of the sign for 
+			SPAIN/SPANISH.  Be sure to check out the Spain page:SPAINYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

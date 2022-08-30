@@ -1,0 +1,2 @@
+To express the concept of "I agree" you can use the signs THINK and SAME.Point to your forehead and then use the sign "SAME/similar" in a directional 
+manner between you and the person with whom you agree.Here's an example of "I think the same as you."Also see:AGREEYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

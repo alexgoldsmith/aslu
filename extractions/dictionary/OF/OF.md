@@ -1,0 +1,2 @@
+of / join / connect / ownThis sign can mean any type of "hook up" concept.  It can even be used 
+  to mean "own."  If you use it with the "agent" sign it can mean "owner."Also see "connect"Also see:  "relationship"OF:JOIN / PARTICIPATE

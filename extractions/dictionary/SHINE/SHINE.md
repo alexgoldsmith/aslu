@@ -1,0 +1,2 @@
+SHINE / RADIATE / SPARKLEIn this sign you use your straight middle fingers (bent forward at the 
+	large knuckle) to represent rays of light reflecting off of something shiny.Animation:You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

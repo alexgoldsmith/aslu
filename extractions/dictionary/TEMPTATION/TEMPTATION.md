@@ -1,0 +1,2 @@
+TEMPTATION:Tap your elbow twice.Memory aid: Think of someone tapping you and inviting you to go eat 
+	chocolate cake.You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

@@ -1,0 +1,1 @@
+SEW-(with a machine)Quite a few versions out there. Here is a good general version:The hands push forward twice as if feeding cloth through a sewing machine.:SEW (animation)SEW-(by hand)SEWING-MACHINE and/or "sewing on a machine."You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

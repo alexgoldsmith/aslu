@@ -1,0 +1,4 @@
+American Sign Language: 
+		"wave-no"Sometimes you need to express a meaning such as:"Nah, not that.""Uh-uh.""nuh-uh.""um-no.""uh-no.""no, no, no...not that."The "wave-no" sign is a way to express such concepts.See:https://www.youtube.com/embed/-Ted2zev0wE?rel=0&autoplay=1Notes:  Also see: "Negation in ASL"* 
+Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
+Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

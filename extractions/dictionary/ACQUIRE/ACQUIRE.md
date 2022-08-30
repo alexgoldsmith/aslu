@@ -1,0 +1,2 @@
+The concept of "acquire" can be signed several different ways 
+			depending on what you mean.If you mean "get" (as in "receive") see:GETIf you mean "develop," see:DEVELOPIf you mean "learn," see:LEARNIf you mean "steal" see:STEALYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars
