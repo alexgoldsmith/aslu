@@ -18,7 +18,7 @@ for c in ascii_lowercase:
         links = soup.find_all("a")
         for link in links:
             try:
-                word = link.string.strip()
+                word = link.string.strip('"').replace('[','').replace(']','')
                 href = link.get("href")
                 href = href.replace('..', word_base_url)
                 print(word)
@@ -38,7 +38,7 @@ for c in ascii_lowercase:
                     with open(f"{root_dir}/public/images/{img_name_and_ext}", "wb") as f:
                         f.write(img_data)
                     # replace references
-                    image["src"] = f"images/{img_name_and_ext}"
+                    image["src"] = f"/images/{img_name_and_ext}"
 
                 # write any linked gifs
                 gifs = block.find_all("a", href=lambda href: ".gif" in href)
@@ -51,7 +51,7 @@ for c in ascii_lowercase:
                     with open(f"{root_dir}/public/images/{gif_name_and_ext}", "wb") as f:
                         f.write(gif_data)
                     # replace references
-                    gif["href"] = f"images/{gif_name_and_ext}"
+                    gif["href"] = f"/images/{gif_name_and_ext}"
 
                 # write blockquotes
                 with open(f"{root_dir}/src/pages/dictionary/{word}.astro", "w") as f:
