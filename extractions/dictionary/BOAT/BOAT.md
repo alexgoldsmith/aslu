@@ -1,2 +1,0 @@
-The sign for ""BOAT:Sample sentence: Have you been on a boat before? = BOAT BEFORE YOU?BOAT:  Show a boat with your hands.  Move it forward and down twice 
-as if showing the movement of a boat.To sign "cruise" instead of "boat" move the hands further forward.CRUISE / "Travel by boat."Move the sign forward about 16 centimeters.CRUISE or "travel by boat"

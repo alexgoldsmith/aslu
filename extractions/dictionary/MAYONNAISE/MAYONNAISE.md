@@ -1,2 +1,0 @@
-MAYONNAISE:  Just spell "M-A-Y-O"MAYO:Mayonnaise variations:1.  Some people use an "M" handshape to smear imagined mayonnaise onto
-their palm.2.  Some people sign "WHITE+SREAD."I recommend sticking with thefingerspelledversion: MAYO.

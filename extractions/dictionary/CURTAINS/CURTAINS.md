@@ -1,2 +1,0 @@
-curtainCURTAIN:  Use "4" handshapes on each hand. Drag your hands downward as if showing how the curtains are hanging.Note: Technically it could be argued that this sign is also showing "vertical lines."  So, if you wanted to use this sign 
-to talk about vertical stripes, you could.

@@ -1,2 +1,0 @@
-The sign for "three" or "3" in ASL is done with the thumb, index 
-	finger, and middle finger.When signed in isolation it is (generally) done palm back.When signed as part of a series of numbers it is done palm forward.THREE:

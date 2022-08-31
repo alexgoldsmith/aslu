@@ -1,2 +1,0 @@
-IMPROVE / "get better":Sample sentence:
-			How can you improve your signing?You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

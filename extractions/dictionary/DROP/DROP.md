@@ -1,1 +1,0 @@
-DROP: As in, "I dropped my physics course."DROP: As in "I dropped the doggie treat into the kennel."DROP: animatedYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

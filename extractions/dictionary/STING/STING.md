@@ -1,3 +1,0 @@
-STING:Use the dominant hand "X" finger to represent a stinger.The "X" hand makes a quick down and up movement (as if having stung 
-			the non-dominant hand). Note: You don't actually have to make 
-			contact as long as you come "close."STING:  Version 2This version of the sign only uses a quick downward movement.Either version is fine.You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

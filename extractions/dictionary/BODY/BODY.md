@@ -1,2 +1,0 @@
-Touch your hands to the upper part of your torso, then touch your hands to the
-  lower part of your torso.body:Also see:FOOTHAIREYESFACEheartbackbaldbody-parts: ARM, HANDS, LEGearsstomachSuppose you mean body as in "a body of work as a whole," see: "CLUSTER"You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

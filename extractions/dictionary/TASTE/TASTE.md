@@ -1,5 +1,0 @@
-American Sign Language: "taste"The sign for "taste" touches the tip of your middle finger to your 
-	lips.If you do the movement once it is a verb as in "Taste this and tell me what 
-	you think."If you do the movement twice it is a noun as in, "That is a good flavor."TASTE:Take a taste of:Sentence:  "Do you think coffee tastes good?"= YOU THINK COFFEE TASTE GOOD?Also see:"PREFER / favorite"Notes:* 
-Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
-Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

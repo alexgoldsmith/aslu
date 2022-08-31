@@ -1,2 +1,0 @@
-I've got a couple ASL dictionaries that show this sign doing some pretty 
-  funky moves.But most native Deaf adults just draw a seven in the air using a "P" handshape.(Model: Byron Cantrell)You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

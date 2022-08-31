@@ -1,6 +1,0 @@
-"cool" (neat, spiffy, terrific)Also see:COOL (temperature)Compare with "FINE"SWELL:Cool as in "Hey man, that's cool!"  Stick the tip of your
-  thumb on your chest and wiggle the fingers.The sign "COOL" as in swell is a variation of the signFINE.Additional reading: BelowIn a message dated 5/23/2007 9:37:01 PM Pacific Daylight Time, darkaurora2002@ writes:Hi Dr. Bill. My name's Robert Nicholson 
-		and I live in Seymour, TN. We have some local variations down here that I thought I'd let you know about. On your site, 
-		you have the "Swell" version of the sign "Cool". Deaf people here know the sign but nobody uses it. The sign for "Cool" 
-		here is you take your index finger and your thumb and put them together on the middle of your cheek and then twist your 
-		hand forward. It is not an "F" sign however. The other three fingers are tucked underneath the hand.Hi Robert,I'm familiar with that sign.I call that sign as "NEAT."  It means: neato, nifty, cool, spiffy,Thanks for sharing.COOL/"neat"The handshape is a closed or pinched "G."The movement is a single quick twist to the side of the chin:Also see:COOL (temperature)

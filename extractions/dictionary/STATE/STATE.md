@@ -1,2 +1,0 @@
-To sign "state" as in, "the U.S. has 50 states," touch the side of an "S" hand to your left palm and then use a small arc to 
-  move the "S" hand to the lower part of palm.STATE:You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

@@ -1,3 +1,0 @@
-The sign for "communication" uses "C" handshapes.Alternate moving the "C" hands forward and backward from near the mouth:COMMUNICATE / communicationCOMMUNICATION (video clip)Notes:"COMMUNICATION / COMMUNICATE"is an initialized version of the sign 
-"talking with."See:TALK-WITH.INTERVIEW:  If you initialize the sign "TALK-WITH" by using "I" hands instead of "index
-fingers" the sign will mean "interview."See:INTERVIEW

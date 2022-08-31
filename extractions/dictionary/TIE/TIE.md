@@ -1,3 +1,0 @@
-Necktie:  Use an "H" handshape to show how a tie hangs from your neck.BOW TIE:Note: Some people also use this sign (in context) to mean "tuxedo."EQUAL:If you mean "tie" and in the contest was a tie or that the result was equal, 
-  then use the sign for "EQUAL"TIE-(a knot)If you mean "tie a knot" then just mime the tying of whatever type of knot to 
-  which you are referring.You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

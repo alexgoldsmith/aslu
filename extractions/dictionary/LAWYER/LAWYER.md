@@ -1,1 +1,0 @@
-Also see:LAWLAWYER = LAW + PERSON/agent:Sentence:YOU WISH your-SELF LAWYER? (Do you wish you were an attorney?)

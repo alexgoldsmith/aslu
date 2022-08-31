@@ -1,1 +1,0 @@
-Regarding a person who is nearby or it is the person who is next to you.NEIGHBOR:NEIGHBOR (version 2)  (next one over + person)

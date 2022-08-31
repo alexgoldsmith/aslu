@@ -1,3 +1,0 @@
-To sign "thirsty" run the tip of your index finger down your throat.THIRSTY:Notes:CRAVE: You can modify the sign THIRSTY a bit by using a more 
-			intense facial expression and a bit more of a deliberate movement which 
-			changes the sign to mean "crave."Also see:DRYAlso see:HUNGRYYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

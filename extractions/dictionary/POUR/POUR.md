@@ -1,2 +1,0 @@
-The right sign for "pour" depends on what you are pouring and how 
-			you are pouring it.POUR-(general)You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

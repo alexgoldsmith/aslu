@@ -1,3 +1,0 @@
-The sign for "Washington" uses a "W" from the shoulder.Washington: Hold a "W" hand near your right shoulder and bring the hand 
-  straight forward.(Model: Byron Cantrell)Washington "State"If you need to specify that you are talking about "Washington state" (and not 
-DC) you can add the "STATE" sign:(Model: Byron Cantrell)Washington DC:Add a "D C" to the end of the sign "Washington."(Model: Byron Cantrell)Also see:BOSSYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

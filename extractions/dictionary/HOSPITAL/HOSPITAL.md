@@ -1,1 +1,0 @@
-Use an "H" hand to draw a "cross" on your shoulder.HOSPITAL:Also see:PATIENT (medical version)You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

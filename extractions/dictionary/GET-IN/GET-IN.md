@@ -1,4 +1,0 @@
-ASL: "get-in"If you mean "get in" as in "get into a vehicle" or get into something that you 
-ride in -- then use the sign GET-IN.GET-IN:Notes:If you mean some other form of get in such as "join" then see:JOINIf you mean "get in trouble" you can just signTROUBLE.Also see:GET-ONRIDE* 
-Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
-Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

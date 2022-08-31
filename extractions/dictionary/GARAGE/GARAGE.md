@@ -1,2 +1,0 @@
-Also see:"Classifier 3" (CL:3)GARAGE:Show a "vehicle" driving under a roof. Use a double movement.Animation of GARAGE:►another garage animationNOTE: Compare "garage" to "SUBWAY."  
-  (The orientation of the right hand is different.)

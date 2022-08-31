@@ -1,2 +1,0 @@
-SHY:Use a "shy" facial expression and a slightly bowed head,The handshape is a "bent hand."  Twist the hand against your cheek one 
-  time.You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

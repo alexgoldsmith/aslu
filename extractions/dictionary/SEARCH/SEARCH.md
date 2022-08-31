@@ -1,1 +1,0 @@
-SEARCH / look for / seek:The dominant "C" hand draws two circles in front of the face.

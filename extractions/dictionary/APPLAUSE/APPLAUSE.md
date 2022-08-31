@@ -1,2 +1,0 @@
-Notes:  Applause can be signed a couple of ways."Hearing Applause" refers to the type of applause used by and for people who 
-    can hear and who are of the "Hearing Community" in terms of culture.APPLAUSE (Hearing Culture version)Can also mean "Kudos."Mimic clapping your hands."DEAF APPLAUSE"Can also mean "Yay!" and "Hurrah!" or "Kudos."Hold your hands in the air and twist them a couple of times.Animation:

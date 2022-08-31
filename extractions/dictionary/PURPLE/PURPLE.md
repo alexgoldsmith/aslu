@@ -1,1 +1,0 @@
-To do the sign for "purple,"shake a "P" twice.See:COLORYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

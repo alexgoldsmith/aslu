@@ -1,1 +1,0 @@
-The sign for supervisor uses "K" hands. One on top of the other.Trace a small horizontal circle twice.SUPERVISE:SUPERVISOR = SUPERVISE + AGENTAlso see:MANAGEYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

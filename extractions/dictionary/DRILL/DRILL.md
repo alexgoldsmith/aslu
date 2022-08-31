@@ -1,1 +1,0 @@
-Notes:  Show the drilling of a hole.DRILL:DRILL: animated

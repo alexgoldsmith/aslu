@@ -1,4 +1,0 @@
-The sign for homework is a "compound" sign made from a combination 
-			of the signs "HOME" and "WORK."Normally the sign HOME makes a double touch to the cheek (first near 
-			the mouth, then higher up toward the ear).Normally the sign WORK makes a double movement (whacking the 
-			non-dominant fist with the dominant fist twice).But for the sign "HOMEWORK" you just touch the cheekjust onceand whack your non-dominant handjust once.HOMEWORK:Animation: "homework"You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

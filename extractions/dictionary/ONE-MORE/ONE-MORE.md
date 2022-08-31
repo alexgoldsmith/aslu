@@ -1,6 +1,0 @@
-American Sign Language: "ONE-MORE""One more"Note the index finger is the only thing moving in this version of the sign "one-more."In a message dated 10/8/2015 4:42:41 P.M. Pacific Daylight Time, abheckstall 
-writes:Hello! It's Antonio again. I've got a question: what are the variants of the 
-sign "one more"? I've seen two:1) "1" handshape facing the signer and bends down twice;2) both hands are in "bent O" positions with fingertips touching and the right 
-index finger moves up and down.Are there other ways of signing this? Thank you!- AntonioAntonio,You could also do two separate signs: ONE MORE.The bending and unbending index finger is the most advanced version.-Dr. BillAlso  see:MORE* 
-Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
-Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

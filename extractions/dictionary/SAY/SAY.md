@@ -1,2 +1,0 @@
-Description:  You tap your chin twice, just below the lower lip.NOTE:  As part of this sentence you use a "Wh?" facial
-  expression.Phrase:  "What did he say?"NOTE compare this sign with:SPEAKAlso see:TELLYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

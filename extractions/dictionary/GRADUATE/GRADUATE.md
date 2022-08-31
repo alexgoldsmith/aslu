@@ -1,2 +1,0 @@
-The sign for "graduate" uses a "G" hand.  The "G" hand 
-	does a somersault movement and lands on the palm of the base hand.GRADUATE (verb form)Sample sentence: "When do/did you graduate from college?"= COLLEGE, YOU GRADUATE WHEN?

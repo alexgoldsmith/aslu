@@ -1,5 +1,0 @@
-American Sign Language:  "facebook"FACEBOOK:Most skilled Deaf signers do this sign by spelling the letters FB.FACEBOOK (2)(variation)This version is a pun that combines aspects of the signs for BOOK and FACE.Signing notes: As of early 2010 
-this version is  for the most part simply an amusing neologism (emerging 
-sign). It will beinteresting to track this version and see if it will become more widely used or if it will fade out over time. (Time will tell.)Also see:BOOKAlso see:FACE* 
-Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
-Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

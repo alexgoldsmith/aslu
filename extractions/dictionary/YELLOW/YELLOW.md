@@ -1,2 +1,0 @@
-The sign for "yellow" is made by forming the letter 
-	"Y."Twist your hand a couple times (the movement is in the wrist)YELLOW:Some people do a small sideward movement while twisting the hand.YELLOW (variation)

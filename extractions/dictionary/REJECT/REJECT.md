@@ -1,5 +1,0 @@
-ASL: "reject"THUMBS-DOWN (or "THUMB-DOWN")Notes:  Both versions (the "sweep off the palm" version and the "thumbs 
-down" version of "REJECT" certainly do overlap in their meanings but 
-"THUMB-DOWN" is often used for situations such as:Signer A: PAST-NIGHT MOVIE? YOU ENJOY?Signer B: THUMB-DOWNAlso thumbs down is good for meanings for that such as:"not a fan""meh" / "not good""boo"Also see:DENY* 
-Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
-Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

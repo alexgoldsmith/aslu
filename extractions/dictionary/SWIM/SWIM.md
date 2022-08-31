@@ -1,3 +1,0 @@
-ASL: "swim"Discussion:SWIM:   Show a simple swimming movement. Do it twice.Note:  The concept of "pool" is generally fingerspelled: P-O-O-LPOOL:Notes:I once saw a sign at a swimming pool that said:________________________Welcome to our   ool.Note: there is no "P" in it.Let's keep it that way!Animation: SWIM* 
-Want to help support ASL University?  It'seasy:DONATE(Thanks!)*Another way to help is to buy something from Dr. Bill's "Bookstore."*Want even more ASL resources?  Visit the "ASL Training Center!"  (Subscription 
-Extension of ASLU)*  Also check out Dr. Bill's channel:www.youtube.com/billvicarsYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

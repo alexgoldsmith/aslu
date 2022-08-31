@@ -1,1 +1,0 @@
-DANCE:DANCER:To sign dancer, combine "DANCE + AGENT"

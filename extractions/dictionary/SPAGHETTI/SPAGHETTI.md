@@ -1,1 +1,0 @@
-SPAGHETTI:You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

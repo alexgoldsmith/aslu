@@ -1,2 +1,0 @@
-To do the sign for "reason," point at the side of your forehead with the tip of an "R" hand.  Draw a 
-  couple little circles in the air as if to show wheels turning in your mind.This sign can also mean "realize" or "rationale."REASON:Animation: "REASON"You can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

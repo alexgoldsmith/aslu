@@ -1,2 +1,0 @@
-SOFTWARE:In general you can just spell "SW" to mean software.Or you might want to sign "PROGRAM."I'll show you both in the video below.Click on the play button below to see "Software Program."  (S-W 
-	PROGRAM)Also see:PROGRAMYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars

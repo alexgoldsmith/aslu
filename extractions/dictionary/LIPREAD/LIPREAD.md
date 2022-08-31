@@ -1,1 +1,0 @@
-LIPREAD = "speechread"Sentence: Do you lipread?

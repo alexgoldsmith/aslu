@@ -1,1 +1,0 @@
-SINK:Most of the time "sink" is just spelled out:  S-I-N-KanimationSINK (version):"SINK" or basin:  (version)You can sign "basin" and then mime out the turning of a two water faucets.animation

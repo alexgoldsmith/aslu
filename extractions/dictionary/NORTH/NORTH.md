@@ -1,2 +1,0 @@
-Do the sign for "north" by moving an "N" hand upward.Memory tip:If you look at a map, north is usually up (toward the top of the 
-			map).NORTH:Also see:EASTSOUTHWESTYou can learnAmerican Sign Language (ASL)online at American Sign Language University ™ASLresources by Lifeprint.com  ©  Dr. William Vicars
