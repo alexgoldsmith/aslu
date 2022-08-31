@@ -18,11 +18,10 @@ for c in ascii_lowercase:
         links = soup.find_all("a")
         for link in links:
             try:
-                word = link.string.strip('"').replace('[','').replace(']','')
                 href = link.get("href")
+                word = href.rsplit("/", 1)[-1].replace('.htm', '')
                 href = href.replace('..', word_base_url)
                 print(word)
-                # print(href)
                 word_file = requests.get(href)
                 word_soup = bs(word_file.content, 'html.parser')
 
