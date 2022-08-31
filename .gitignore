@@ -1,3 +1,6 @@
+# extractions
+extractions/
+
 # build output
 dist/
 .output/
