@@ -1,46 +1,42 @@
 ---
 import { SITE } from "~/config.mjs";
 
-const getSigns = async function () {
+export async function getSigns() {
   const sign_modules = await Astro.glob(
     "../../components/content/dictionary/**/*.astro"
   );
 
   const signs = sign_modules.map(async (sign) => {
     console.log(sign["file"]);
-    const slug = sign["file"].split("/").pop().split(".").shift();
-    return slug;
-    // console.log(key);
-    // console.log(sign_modules[key]);
-    // return await {
-    //   slug: key.split("/").pop().split(".").shift(),
-    //   component: sign_modules[key],
-    // };
-    // });
-
-    return await Promise.all(signs);
+    console.log(sign["default"]);
+    return {
+      slug: sign["file"].split("/").pop().split(".").shift(),
+      component: sign["default"],
+    };
   });
-};
 
-const signs = getSigns();
+  const results = await Promise.all(signs);
+  return results;
+}
 
 export async function getStaticPaths() {
-  const pages = [
-    {
-      slug: "products",
-      title: "Astro products",
-      text: "We have lots of products for you",
-    },
-    {
-      slug: "astrohandbook",
-      title: "The ultimative Astro handbook",
-      text: "If you want to learn Astro, you must read this book.",
-    },
-  ];
-  return pages.map((page) => {
+  let pages = await getSigns();
+  // const pages = [
+  //   {
+  //     slug: "products",
+  //     title: "Astro products",
+  //     text: "We have lots of products for you",
+  //   },
+  //   {
+  //     slug: "astrohandbook",
+  //     title: "The ultimative Astro handbook",
+  //     text: "If you want to learn Astro, you must read this book.",
+  //   },
+  // ];
+  return await pages.map((page) => {
     return {
       params: { slug: page["slug"] },
-      props: { Sign: page["text"] },
+      props: { Sign: page["component"] },
     };
   });
 }
