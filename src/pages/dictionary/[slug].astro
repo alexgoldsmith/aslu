@@ -1,0 +1,54 @@
+---
+// import * as fs from "fs";
+import { SITE } from "~/config.mjs";
+
+export async function processSign(sign_module) {
+  const {default, file} = sign_module;
+  return {
+    slug: sign_module.file.split("/").pop().split(".").shift(),
+    component: sign_module.default,
+  }
+}
+
+export async function getSigns() {
+  const sign_modules = await Astro.glob(
+    "../../components/content/dictionary/*.astro"
+  );
+
+  const signs = sign_modules.map(async (sign_module) => {
+    return await processSign(sign_module);
+  });
+
+  return signs;
+}
+
+export async function getStaticPaths() {
+  const signs = await getSigns();
+  return signs.map(async (sign) => {
+    console.log(sign);
+    return {
+      params: {
+        slug: sign.slug,
+        Sign: sign.component,
+        //slug: sign.file,
+      },
+
+      props: {},
+    };
+  });
+}
+
+const { slug, Sign } = Astro.params;
+
+const meta = {
+  title: `${SITE.org} | ${slug}`,
+  description: `Dictionary page for ${slug}`,
+  canonical: new URL("", Astro.site),
+};
+
+import SignLayout from "~/layouts/SignLayout.astro";
+---
+
+<SignLayout>
+  <!-- <Sign.default /> -->
+</SignLayout>

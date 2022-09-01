@@ -1,0 +1,12 @@
+---
+import PageLayout from "~/layouts/PageLayout.astro";
+import NavBar from "../components/widgets/NavBar.astro";
+import AltFooter from "~/components/widgets/AltFooter.astro";
+
+const { meta, sign } = Astro.props;
+---
+
+<PageLayout meta={meta}>
+  <!-- <Fragment set:html={sign.body} /> -->
+  <slot />
+</PageLayout>

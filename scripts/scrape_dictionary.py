@@ -1,9 +1,9 @@
-from bs4 import BeautifulSoup as bs
+import os
 import requests
 from time import sleep
 from string import ascii_lowercase
 import re
-import os
+from bs4 import BeautifulSoup as bs
 
 root_dir = os.getcwd()
 url = "http://asluniversity.com/asl101/index/"
@@ -53,8 +53,10 @@ for c in ascii_lowercase:
                     gif["href"] = f"/images/{gif_name_and_ext}"
 
                 # write blockquotes
-                with open(f"{root_dir}/src/pages/dictionary/{word}.astro", "w") as f:
-                    f.write(block.prettify())
+                with open(f"{root_dir}/src/components/content/dictionary/{word}.astro", "w") as f:
+                    # replace &nbsp; with space
+                    f.write(block.prettify(
+                        formatter=lambda s: s.replace(u'\xa0', ' ')))
 
                 # write text only
                 # with open(f"{root_dir}/src/pages/pages-text/{c}/{word}/{word}.md", "w") as f:
