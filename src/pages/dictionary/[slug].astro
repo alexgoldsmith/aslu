@@ -21,18 +21,6 @@ export async function getSigns() {
 
 export async function getStaticPaths() {
   let pages = await getSigns();
-  // const pages = [
-  //   {
-  //     slug: "products",
-  //     title: "Astro products",
-  //     text: "We have lots of products for you",
-  //   },
-  //   {
-  //     slug: "astrohandbook",
-  //     title: "The ultimative Astro handbook",
-  //     text: "If you want to learn Astro, you must read this book.",
-  //   },
-  // ];
   return await pages.map((page) => {
     return {
       params: { slug: page["slug"] },
@@ -41,7 +29,7 @@ export async function getStaticPaths() {
   });
 }
 
-const { slug } = Astro.props;
+const { slug } = Astro.params;
 const { Sign } = Astro.props;
 
 const meta = {
@@ -53,4 +41,6 @@ const meta = {
 import SignLayout from "~/layouts/SignLayout.astro";
 ---
 
-<SignLayout><span>test</span></SignLayout>
+<SignLayout>
+  <Sign />
+</SignLayout>
