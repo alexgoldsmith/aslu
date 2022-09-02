@@ -56,7 +56,7 @@ for c in ascii_lowercase:
                 with open(f"{root_dir}/src/components/content/dictionary/{word}.astro", "w") as f:
                     # replace &nbsp; with space
                     f.write(block.prettify(
-                        formatter=lambda s: s.replace(u'\xa0', ' ')))
+                        formatter=lambda s: s.replace('\xa0', ' ')))
 
                 # write text only
                 # with open(f"{root_dir}/src/pages/pages-text/{c}/{word}/{word}.md", "w") as f:

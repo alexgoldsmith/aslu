@@ -1,25 +1,18 @@
 import os
+import io
 import shutil
+from bs4 import BeautifulSoup as bs
+import unicodedata
 
 root_dir = os.getcwd()
-src = f"{root_dir}/extractions/dictionary"
-dest = f"{root_dir}/src/pages/dictionary"
+target_dir = f"{root_dir}/src/components/content/dictionary/"
 
-before = """---
-import { SITE } from "~/config.mjs";
-import PageLayout from "~/layouts/PageLayout.astro";
-
-const title = `${SITE.org} | Dictionary`;
-const description = `Dictionary page`;
-const canonical = new URL("", Astro.site);
----
-<PageLayout meta={{ title, description, canonical }}>
-    <main>"""
-
-after = """    </main>
-</PageLayout>"""
-
-for filename in os.scandir(src):
-    with open(src + filename, 'w'):
-
-        # shutil.copy(src, dest)
+for file in os.scandir(target_dir):
+    with open(target_dir + file.name, 'r', encoding="utf-8") as f:
+        contents = f.read()
+        soup = bs(contents, 'html.parser')
+        for script in soup.find_all("script"):
+            script.decompose()
+        # clean_soup = unicodedata.normalize('NFKD', soup.text)
+    with open(target_dir + file.name, 'wb') as f:
+        f.write(soup.prettify("ascii"))
