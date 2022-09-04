@@ -1,6 +1,7 @@
 ---
 import NavBarItem from "~/components/widgets/NavBarItem.astro";
 import NavBarDropdown from "~/components/widgets/NavBarDropdown.astro";
+
 ---
 
 <script>
@@ -26,10 +27,10 @@ import NavBarDropdown from "~/components/widgets/NavBarDropdown.astro";
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto">
-                <NavBarItem label="Home" link="/" state="active" />
-                <NavBarItem label="About Us" link="about" />
-                <NavBarItem label="Dictionary" link="dictionary" />
-                <NavBarDropdown label="Courses" link="courses" />
+                <NavBarItem label="Home" link="/"/>
+                <NavBarItem label="About Us" link="/about" />
+                <NavBarItem label="Dictionary" link="/dictionary"/>
+                <NavBarDropdown label="Courses" link="/courses"/>
             </ul>
         </div>
     </div>
