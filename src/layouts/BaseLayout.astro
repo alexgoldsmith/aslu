@@ -1,6 +1,7 @@
 ---
 import "~/scss/styles.scss";
 import MetaTags from "~/components/MetaTags.astro";
+import NavBar from "../components/widgets/NavBar.astro";
 
 const { meta } = Astro.props;
 ---
@@ -22,6 +23,7 @@ const { meta } = Astro.props;
   </head>
 
   <body>
+    <NavBar />
     <div class="container">
       <slot />
     </div>
