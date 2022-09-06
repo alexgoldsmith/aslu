@@ -1,14 +1,15 @@
 import os
 import re
 from bs4 import BeautifulSoup as bs
+import unicodedata
 
 root_dir = os.getcwd()
 target_dir = f"{root_dir}/src/components/content/dictionary/"
 
 for file in os.scandir(target_dir):
     with open(target_dir + file.name, 'r', encoding="utf-8") as f:
-        contents = f.read()
-        soup = bs(contents, 'html.parser')
+        contents = f.read().replace('&lt;', '').replace('&gt;', '')
+        soup = bs(contents, 'lxml')
 
         for script in soup.find_all("script"):  # remove script tags
             script.decompose()
@@ -33,7 +34,7 @@ for file in os.scandir(target_dir):
 
         for link in soup.find_all(href=linkFilter):  # replace references
             newref = link["href"].rsplit("/", 1)[-1].replace(".htm", "")
-            link["href"] = "dictionary/" + newref
+            link["href"] = "/dictionary/" + newref
 
     with open(target_dir + file.name, 'w', encoding="utf-8") as f:
-        f.write(soup.prettify(formatter=lambda s: s.replace('\xa0', ' ')))
+        f.write(soup.prettify(formatter=lambda s: unicodedata.normalize("NFKD", s)))
