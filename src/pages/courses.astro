@@ -9,45 +9,41 @@ const canonical = new URL("", Astro.site);
 ---
 
 <PageLayout meta={{ title, description, canonical }}>
-    <main>
-        <div class="container">
-            <h1 class="my-4">Available Courses</h1>
-            <CourseCard label="ASL 1" link="asl-1">
-                <p>
-                    American Sign Language 1 is an introduction to American Sign
-                    Language (ASL). Includes basic grammar, vocabulary,
-                    fingerspelling, numbers, and cultural information related to
-                    the Deaf Community.
-                </p>
-            </CourseCard>
-            <hr />
-            <CourseCard label="ASL 2" link="asl-2">
-                <p>
-                    ASL 2 is a continuation of ASL 1. This course is designed to
-                    continue development of American Sign Language expressive
-                    and receptive skills, grammar, vocabulary, cultural
-                    awareness, and related terminology.
-                </p>
-            </CourseCard>
-            <hr />
-            <CourseCard label="ASL 3" link="asl-3">
-                <p>
-                    ASL 3 is a continuation of ASL 2. This course is designed to
-                    continue development of American Sign Language expressive
-                    and receptive skills, grammar, vocabulary, cultural
-                    awareness, and related terminology.
-                </p>
-            </CourseCard>
-            <hr />
-            <CourseCard label="ASL 4" link="asl-4">
-                <p>
-                    ASL 4 is a continuation of ASL 3. This course is designed to
-                    continue development of American Sign Language expressive
-                    and receptive skills, grammar, vocabulary, cultural
-                    awareness, and related terminology.
-                </p>
-            </CourseCard>
-            <hr />
-        </div>
-    </main>
+  <main>
+    <div class="container">
+      <h1 class="my-4">Available Courses</h1>
+      <CourseCard label="ASL 1" link="courses/asl-1">
+        <p>
+          American Sign Language 1 is an introduction to American Sign Language
+          (ASL). Includes basic grammar, vocabulary, fingerspelling, numbers,
+          and cultural information related to the Deaf Community.
+        </p>
+      </CourseCard>
+      <hr />
+      <CourseCard label="ASL 2" link="courses/asl-2">
+        <p>
+          ASL 2 is a continuation of ASL 1. This course is designed to continue
+          development of American Sign Language expressive and receptive skills,
+          grammar, vocabulary, cultural awareness, and related terminology.
+        </p>
+      </CourseCard>
+      <hr />
+      <CourseCard label="ASL 3" link="courses/asl-3">
+        <p>
+          ASL 3 is a continuation of ASL 2. This course is designed to continue
+          development of American Sign Language expressive and receptive skills,
+          grammar, vocabulary, cultural awareness, and related terminology.
+        </p>
+      </CourseCard>
+      <hr />
+      <CourseCard label="ASL 4" link="courses/asl-4">
+        <p>
+          ASL 4 is a continuation of ASL 3. This course is designed to continue
+          development of American Sign Language expressive and receptive skills,
+          grammar, vocabulary, cultural awareness, and related terminology.
+        </p>
+      </CourseCard>
+      <hr />
+    </div>
+  </main>
 </PageLayout>

@@ -1,0 +1,35 @@
+---
+import { SITE } from "~/config.mjs";
+import PageLayout from "~/layouts/PageLayout.astro";
+import CourseCard from "~/components/widgets/CourseCard.astro";
+
+const title = `${SITE.org} | Course 1`;
+const description = `${SITE.org} Course 1 Home Page`;
+const canonical = new URL("", Astro.site);
+---
+
+<PageLayout meta={{ title, description, canonical }}>
+  <ul class="list-group list-group-flush">
+    <!-- add class "list-group-item" to all child elements -->
+    <li class="list-group-item">
+      Unit 1
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+          <a href="/course-1/unit-1/lesson-1">Lesson 1</a>
+        </li>
+        <li class="list-group-item">
+          <a href="/course-1/unit-1/lesson-2">Lesson 2</a>
+        </li>
+        <li class="list-group-item">
+          <a href="/course-1/unit-1/lesson-3">Lesson 3</a>
+        </li>
+        <li class="list-group-item">
+          <a href="/course-1/unit-1/lesson-4">Lesson 4</a>
+        </li>
+        <li class="list-group-item">
+          <a href="/course-1/unit-1/lesson-5">Lesson 5</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</PageLayout>

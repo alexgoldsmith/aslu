@@ -35,7 +35,8 @@
 			"extensions": [
 				"GitHub.vscode-pull-request-github",
 				"astro-build.astro-vscode",
-				"ms-python.python"
+				"ms-python.python",
+				"GitHub.codespaces"
 			]
 		}
 	},
