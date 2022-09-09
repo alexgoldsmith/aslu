@@ -1,0 +1,22 @@
+---
+const { course_num, unit_num } = Astro.props;
+const number_of_lessons = 5;
+const lesson_list = [...Array(number_of_lessons).keys()].map(
+  (i) => ++i + (unit_num - 1) * number_of_lessons
+);
+---
+
+<h2>{`Unit ${unit_num}`}</h2>
+<ul class="list-group list-group-flush">
+  {
+    lesson_list.map((lesson_num) => (
+      <li class="list-group-item">
+        <a
+          href={`/courses/course-${course_num}/unit-${unit_num}/lesson-${lesson_num}`}
+        >
+          {`Lesson ${lesson_num}`}
+        </a>
+      </li>
+    ))
+  }
+</ul>
