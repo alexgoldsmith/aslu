@@ -1,17 +1,15 @@
 ---
 import { SITE } from "~/config.mjs";
 import PageLayout from "~/layouts/PageLayout.astro";
-import MainPage from "~/components/content/homepage/HomePage.astro";
+import Lorem from "~/components/content/lorem.astro";
 
 const meta = {
-  title: `${SITE.org} | Home`,
-  description: `Home site of ${SITE.org}`,
+  title: `${SITE.org} | Dictionary`,
+  description: `Dictionary page`,
   canonical: new URL("", Astro.site),
 };
 ---
 
 <PageLayout meta={meta}>
-  <main>
-    <MainPage />
-  </main>
+  <main></main>
 </PageLayout>
