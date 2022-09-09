@@ -29,14 +29,16 @@
 				"lldb.executable": "/usr/bin/lldb",
 				"files.watcherExclude": {
 					"**/target/**": true
-				}
+				},
+				"html.autoClosingTags": false
 			},
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"GitHub.vscode-pull-request-github",
 				"astro-build.astro-vscode",
 				"ms-python.python",
-				"GitHub.codespaces"
+				"GitHub.codespaces",
+				"vscodevim.vim"
 			]
 		}
 	},

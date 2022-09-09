@@ -1,7 +1,7 @@
 ---
 import { SITE } from "~/config.mjs";
 import PageLayout from "~/layouts/PageLayout.astro";
-import MainPage from "~/components/content/homepage/HomePage.astro";
+import HomePage from "~/components/content/homepage/HomePage.astro";
 
 const meta = {
   title: `${SITE.org} | Home`,
@@ -12,6 +12,6 @@ const meta = {
 
 <PageLayout meta={meta}>
   <main>
-    <MainPage />
+    <HomePage />
   </main>
 </PageLayout>

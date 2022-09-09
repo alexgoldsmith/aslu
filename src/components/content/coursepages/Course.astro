@@ -3,7 +3,30 @@ import Unit from "~/components/content/coursepages/Unit.astro";
 const { course_num } = Astro.props;
 ---
 
-<h1>Course: ASL {course_num}</h1>
-<Unit course_num={course_num} unit_num={course_num * 3 - 2} />
-<Unit course_num={course_num} unit_num={course_num * 3 - 1} />
-<Unit course_num={course_num} unit_num={course_num * 3} />
+<div class="container">
+  <div class="row">
+    <h1>Course: ASL {course_num}</h1>
+    <div class="col-sm">
+      <Unit course_num={course_num} unit_num={course_num * 3 - 2} />
+    </div>
+    <div class="col-sm">
+      <Unit course_num={course_num} unit_num={course_num * 3 - 1} />
+    </div>
+    <div class="col-sm">
+      <Unit course_num={course_num} unit_num={course_num * 3} />
+    </div>
+  </div>
+</div>
+
+<style>
+  h1 {
+    text-align: center;
+  }
+  /* div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  } */
+</style>

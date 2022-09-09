@@ -3,16 +3,18 @@ import { SITE } from "~/config.mjs";
 import PageLayout from "~/layouts/PageLayout.astro";
 import CourseCard from "~/components/widgets/CourseCard.astro";
 
-const title = `${SITE.org} | Courses`;
-const description = `Course Listing from ${SITE.org}`;
-const canonical = new URL("", Astro.site);
+const meta = {
+  title: `${SITE.org} | Courses`,
+  description: `Course Listing from ${SITE.org}`,
+  canonical: new URL("", Astro.site),
+};
 ---
 
-<PageLayout meta={{ title, description, canonical }}>
+<PageLayout meta={meta}>
   <main>
     <div class="container">
       <h1 class="my-4">Available Courses</h1>
-      <CourseCard label="ASL 1" link="courses/asl-1">
+      <CourseCard label="ASL 1" link="/courses/asl-1">
         <p>
           American Sign Language 1 is an introduction to American Sign Language
           (ASL). Includes basic grammar, vocabulary, fingerspelling, numbers,
@@ -20,7 +22,7 @@ const canonical = new URL("", Astro.site);
         </p>
       </CourseCard>
       <hr />
-      <CourseCard label="ASL 2" link="courses/asl-2">
+      <CourseCard label="ASL 2" link="/courses/asl-2">
         <p>
           ASL 2 is a continuation of ASL 1. This course is designed to continue
           development of American Sign Language expressive and receptive skills,
@@ -28,7 +30,7 @@ const canonical = new URL("", Astro.site);
         </p>
       </CourseCard>
       <hr />
-      <CourseCard label="ASL 3" link="courses/asl-3">
+      <CourseCard label="ASL 3" link="/courses/asl-3">
         <p>
           ASL 3 is a continuation of ASL 2. This course is designed to continue
           development of American Sign Language expressive and receptive skills,
@@ -36,7 +38,7 @@ const canonical = new URL("", Astro.site);
         </p>
       </CourseCard>
       <hr />
-      <CourseCard label="ASL 4" link="courses/asl-4">
+      <CourseCard label="ASL 4" link="/courses/asl-4">
         <p>
           ASL 4 is a continuation of ASL 3. This course is designed to continue
           development of American Sign Language expressive and receptive skills,
