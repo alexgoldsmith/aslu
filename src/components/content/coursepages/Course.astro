@@ -6,6 +6,7 @@ const { course_num } = Astro.props;
 <div class="container">
   <div class="row">
     <h1>Course: ASL {course_num}</h1>
+    <hr />
     <div class="col-sm">
       <Unit course_num={course_num} unit_num={course_num * 3 - 2} />
     </div>

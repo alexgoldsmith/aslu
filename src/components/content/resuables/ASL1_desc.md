@@ -1,0 +1,1 @@
+American Sign Language 1 is an introduction to American Sign Language (ASL). Includes basic grammar, vocabulary, fingerspelling, numbers and cultural information related to the Deaf Community.

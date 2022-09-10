@@ -1,0 +1,1 @@
+ASL 2 is a continuation of ASL 1. This course is designed to continue development of American Sign Language expressive and receptive skills, grammar, vocabulary, cultural awareness, and related terminology.

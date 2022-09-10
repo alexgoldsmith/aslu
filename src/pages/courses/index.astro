@@ -2,6 +2,15 @@
 import { SITE } from "~/config.mjs";
 import PageLayout from "~/layouts/PageLayout.astro";
 import CourseCard from "~/components/widgets/CourseCard.astro";
+import * as ASL1 from "~/components/content/resuables/ASL1_desc.md";
+import * as ASL2 from "~/components/content/resuables/ASL2_desc.md";
+import * as ASL3 from "~/components/content/resuables/ASL3_desc.md";
+import * as ASL4 from "~/components/content/resuables/ASL4_desc.md";
+
+const ASL1_desc = ASL1.rawContent();
+const ASL2_desc = ASL2.rawContent();
+const ASL3_desc = ASL3.rawContent();
+const ASL4_desc = ASL4.rawContent();
 
 const meta = {
   title: `${SITE.org} | Courses`,
@@ -14,37 +23,13 @@ const meta = {
   <main>
     <div class="container">
       <h1 class="my-4">Available Courses</h1>
-      <CourseCard label="ASL 1" link="/courses/asl-1">
-        <p>
-          American Sign Language 1 is an introduction to American Sign Language
-          (ASL). Includes basic grammar, vocabulary, fingerspelling, numbers,
-          and cultural information related to the Deaf Community.
-        </p>
-      </CourseCard>
+      <CourseCard label="ASL 1" desc={ASL1_desc} link="/courses/asl-1" />
       <hr />
-      <CourseCard label="ASL 2" link="/courses/asl-2">
-        <p>
-          ASL 2 is a continuation of ASL 1. This course is designed to continue
-          development of American Sign Language expressive and receptive skills,
-          grammar, vocabulary, cultural awareness, and related terminology.
-        </p>
-      </CourseCard>
+      <CourseCard label="ASL 2" desc={ASL2_desc} link="/courses/asl-2" />
       <hr />
-      <CourseCard label="ASL 3" link="/courses/asl-3">
-        <p>
-          ASL 3 is a continuation of ASL 2. This course is designed to continue
-          development of American Sign Language expressive and receptive skills,
-          grammar, vocabulary, cultural awareness, and related terminology.
-        </p>
-      </CourseCard>
+      <CourseCard label="ASL 3" desc={ASL3_desc} link="/courses/asl-3" />
       <hr />
-      <CourseCard label="ASL 4" link="/courses/asl-4">
-        <p>
-          ASL 4 is a continuation of ASL 3. This course is designed to continue
-          development of American Sign Language expressive and receptive skills,
-          grammar, vocabulary, cultural awareness, and related terminology.
-        </p>
-      </CourseCard>
+      <CourseCard label="ASL 4" desc={ASL4_desc} link="/courses/asl-4" />
       <hr />
     </div>
   </main>
