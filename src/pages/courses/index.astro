@@ -2,10 +2,13 @@
 import { SITE } from "~/config.mjs";
 import PageLayout from "~/layouts/PageLayout.astro";
 import CourseCard from "~/components/widgets/CourseCard.astro";
+
+// import resuable text
 import * as ASL1 from "~/components/content/resuables/ASL1_desc.md";
 import * as ASL2 from "~/components/content/resuables/ASL2_desc.md";
 import * as ASL3 from "~/components/content/resuables/ASL3_desc.md";
 import * as ASL4 from "~/components/content/resuables/ASL4_desc.md";
+import { Content as Philosophy } from "~/components/content/resuables/cirriculum_philosophy.md";
 
 const ASL1_desc = ASL1.rawContent();
 const ASL2_desc = ASL2.rawContent();
@@ -19,9 +22,18 @@ const meta = {
 };
 ---
 
+<!-- TODO: center and style the card -->
 <PageLayout meta={meta}>
   <main>
     <div class="container">
+      <div class="card">
+        <div class="card-header">Cirriculum Philosophy</div>
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <Philosophy />
+          </blockquote>
+        </div>
+      </div>
       <h1 class="my-4">Available Courses</h1>
       <CourseCard label="ASL 1" desc={ASL1_desc} link="/courses/asl-1" />
       <hr />
@@ -34,3 +46,12 @@ const meta = {
     </div>
   </main>
 </PageLayout>
+
+<style>
+  .container {
+    align-items: center;
+  }
+  .card {
+    width: 75%;
+  }
+</style>
