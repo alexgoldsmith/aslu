@@ -38,7 +38,8 @@
 				"astro-build.astro-vscode",
 				"ms-python.python",
 				"GitHub.codespaces",
-				"vscodevim.vim"
+				"vscodevim.vim",
+				"esbenp.prettier-vscode"
 			]
 		}
 	},
